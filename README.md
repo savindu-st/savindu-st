@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+<h1 align="center">Hi there, I'm Savindu 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
+</p>
+### 📊 GitHub Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=savindu-st&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savindu-st&layout=compact&theme=radical" />
+</p>
+
 <!--
 **savindu-st/savindu-st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
